@@ -12,8 +12,5 @@ python flask와 naver,kakao map api를 이용하여 웹에서 예측결과를 �
 -flask 실행 파일
 https://drive.google.com/open?id=1UokTa-oIT5ZvmKFchOKb0UL2p7GgL8Gv
 
--프로젝트 진행 과정
-https://www.evernote.com/pub/youminjo6559/taxiProject
-
 -내용 요약 & 실행 화면
 https://docs.google.com/document/d/1l7wo7NbDOGGZ_YJK00LdGNE9CqzOhKwEVMadN0KRkhc/edit?usp=sharing
