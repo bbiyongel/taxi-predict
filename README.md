@@ -5,12 +5,11 @@
 eda과정에서의 결과들을 통해 cda과정 모델을 학습시켜 모델을 만든다음
 python flask와 naver,kakao map api를 이용하여 웹에서 예측결과를 가시화 시킴
 
+![appUI](https://user-images.githubusercontent.com/34993466/66547600-8d429800-eb7a-11e9-8312-6afff0a8d8b8.png)
+
 업로드 된 3파일은 모델 만들기 위한 코드
 
 ***실제 플라스크 실행 파일은 용량이 큰 관계로 드라이브로 대체 합니다.***
 
 -flask 실행 파일
 https://drive.google.com/open?id=1UokTa-oIT5ZvmKFchOKb0UL2p7GgL8Gv
-
--내용 요약 & 실행 화면
-https://docs.google.com/document/d/1l7wo7NbDOGGZ_YJK00LdGNE9CqzOhKwEVMadN0KRkhc/edit?usp=sharing
